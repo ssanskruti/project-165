@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized Witch Cauldron
+* source:	https://sketchfab.com/3d-models/stylized-witch-cauldron-fe6fce3bd07b4e04abc72565e2f512b0
+* author:	VertexCraft (https://sketchfab.com/VertexCraft)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized Witch Cauldron" (https://sketchfab.com/3d-models/stylized-witch-cauldron-fe6fce3bd07b4e04abc72565e2f512b0) by VertexCraft (https://sketchfab.com/VertexCraft) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
